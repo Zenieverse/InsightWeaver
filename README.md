@@ -3,6 +3,7 @@
 https://poe.com/InsightWeawer
 
 InsightWeaver Agent is a multi-step autonomous assistant that demonstrates the power of TiDB Serverless with vector search.
+
 Features:
 📂 Upload and ingest multi-format data (PDFs, chat logs, transcripts).
 🔍 Perform semantic + full-text hybrid search on stored content.
