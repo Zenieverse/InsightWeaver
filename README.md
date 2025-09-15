@@ -1,5 +1,7 @@
 # InsightWeaver
 
+https://vimeo.com/1118614972?share=copy
+
 https://poe.com/InsightWeawer
 
 InsightWeaver Agent is a multi-step autonomous assistant that demonstrates the power of TiDB Serverless with vector search.
